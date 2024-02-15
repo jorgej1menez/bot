@@ -1,0 +1,420 @@
+[
+  {
+    "code": "en-US",
+    "LanguageName": "US English",
+    "Voices": [
+      "Kevin",
+      "Salli",
+      "Matthew",
+      "Kimberly",
+      "Kendra",
+      "Justin",
+      "Joey",
+      "Joanna",
+      "Ivy",
+      "Ruth",
+      "Stephen"
+    ],
+    "Regions": [
+      "neural"
+    ]
+  },
+  {
+    "code": "tr-TR",
+    "LanguageName": "Turkish",
+    "Voices": [
+      "Filiz"
+    ],
+    "Regions": [
+      "standard"
+    ]
+  },
+  {
+    "code": "sv-SE",
+    "LanguageName": "Swedish",
+    "Voices": [
+      "Elin",
+      "Astrid"
+    ],
+    "Regions": [
+      "neural",
+      "standard"
+    ]
+  },
+  {
+    "code": "ru-RU",
+    "LanguageName": "Russian",
+    "Voices": [
+      "Tatyana",
+      "Maxim"
+    ],
+    "Regions": [
+      "standard"
+    ]
+  },
+  {
+    "code": "ro-RO",
+    "LanguageName": "Romanian",
+    "Voices": [
+      "Carmen"
+    ],
+    "Regions": [
+      "standard"
+    ]
+  },
+  {
+    "code": "pt-PT",
+    "LanguageName": "Portuguese",
+    "Voices": [
+      "Ines",
+      "Cristiano"
+    ],
+    "Regions": [
+      "neural",
+      "standard"
+    ]
+  },
+  {
+    "code": "pt-BR",
+    "LanguageName": "Brazilian Portuguese",
+    "Voices": [
+      "Vitoria",
+      "Ricardo",
+      "Camila",
+      "Thiago"
+    ],
+    "Regions": [
+      "neural",
+      "standard"
+    ]
+  },
+  {
+    "code": "pl-PL",
+    "LanguageName": "Polish",
+    "Voices": [
+      "Maja",
+      "Jan",
+      "Jacek",
+      "Ewa",
+      "Ola"
+    ],
+    "Regions": [
+      "standard",
+      "neural"
+    ]
+  },
+  {
+    "code": "nl-NL",
+    "LanguageName": "Dutch",
+    "Voices": [
+      "Ruben",
+      "Lotte",
+      "Laura"
+    ],
+    "Regions": [
+      "standard",
+      "neural"
+    ]
+  },
+  {
+    "code": "nb-NO",
+    "LanguageName": "Norwegian",
+    "Voices": [
+      "Ida",
+      "Liv"
+    ],
+    "Regions": [
+      "neural",
+      "standard"
+    ]
+  },
+  {
+    "code": "ko-KR",
+    "LanguageName": "Korean",
+    "Voices": [
+      "Seoyeon"
+    ],
+    "Regions": [
+      "neural"
+    ]
+  },
+  {
+    "code": "ja-JP",
+    "LanguageName": "Japanese",
+    "Voices": [
+      "Kazuha",
+      "Tomoko",
+      "Takumi",
+      "Mizuki"
+    ],
+    "Regions": [
+      "neural",
+      "standard"
+    ]
+  },
+  {
+    "code": "it-IT",
+    "LanguageName": "Italian",
+    "Voices": [
+      "Bianca",
+      "Giorgio",
+      "Carla",
+      "Adriano"
+    ],
+    "Regions": [
+      "neural",
+      "standard"
+    ]
+  },
+  {
+    "code": "is-IS",
+    "LanguageName": "Icelandic",
+    "Voices": [
+      "Karl",
+      "Dora"
+    ],
+    "Regions": [
+      "standard"
+    ]
+  },
+  {
+    "code": "fr-FR",
+    "LanguageName": "French",
+    "Voices": [
+      "Mathieu",
+      "Lea",
+      "Celine",
+      "Remi"
+    ],
+    "Regions": [
+      "standard",
+      "neural"
+    ]
+  },
+  {
+    "code": "fr-CA",
+    "LanguageName": "Canadian French",
+    "Voices": [
+      "Chantal",
+      "Gabrielle",
+      "Liam"
+    ],
+    "Regions": [
+      "standard",
+      "neural"
+    ]
+  },
+  {
+    "code": "es-US",
+    "LanguageName": "US Spanish",
+    "Voices": [
+      "Penelope",
+      "Miguel",
+      "Lupe",
+      "Pedro"
+    ],
+    "Regions": [
+      "standard",
+      "neural"
+    ]
+  },
+  {
+    "code": "es-MX",
+    "LanguageName": "Mexican Spanish",
+    "Voices": [
+      "Mia",
+      "Andres"
+    ],
+    "Regions": [
+      "neural"
+    ]
+  },
+  {
+    "code": "es-ES",
+    "LanguageName": "Castilian Spanish",
+    "Voices": [
+      "Lucia",
+      "Enrique",
+      "Conchita",
+      "Sergio"
+    ],
+    "Regions": [
+      "neural",
+      "standard"
+    ]
+  },
+  {
+    "code": "en-GB-WLS",
+    "LanguageName": "Welsh English",
+    "Voices": [
+      "Geraint"
+    ],
+    "Regions": [
+      "standard"
+    ]
+  },
+  {
+    "code": "en-NZ",
+    "LanguageName": "New Zealand English",
+    "Voices": [
+      "Aria"
+    ],
+    "Regions": [
+      "neural"
+    ]
+  },
+  {
+    "code": "en-ZA",
+    "LanguageName": "South African English",
+    "Voices": [
+      "Ayanda"
+    ],
+    "Regions": [
+      "neural"
+    ]
+  },
+  {
+    "code": "en-IN",
+    "LanguageName": "Indian English",
+    "Voices": [
+      "Raveena",
+      "Aditi",
+      "Kajal"
+    ],
+    "Regions": [
+      "standard",
+      "neural"
+    ]
+  },
+  {
+    "code": "en-GB",
+    "LanguageName": "British English",
+    "Voices": [
+      "Emma",
+      "Brian",
+      "Amy",
+      "Arthur"
+    ],
+    "Regions": [
+      "neural"
+    ]
+  },
+  {
+    "code": "en-AU",
+    "LanguageName": "Australian English",
+    "Voices": [
+      "Russell",
+      "Nicole",
+      "Olivia"
+    ],
+    "Regions": [
+      "standard",
+      "neural"
+    ]
+  },
+  {
+    "code": "de-DE",
+    "LanguageName": "German",
+    "Voices": [
+      "Vicki",
+      "Marlene",
+      "Hans",
+      "Daniel"
+    ],
+    "Regions": [
+      "neural",
+      "standard"
+    ]
+  },
+  {
+    "code": "da-DK",
+    "LanguageName": "Danish",
+    "Voices": [
+      "Naja",
+      "Mads"
+    ],
+    "Regions": [
+      "standard"
+    ]
+  },
+  {
+    "code": "cy-GB",
+    "LanguageName": "Welsh",
+    "Voices": [
+      "Gwyneth"
+    ],
+    "Regions": [
+      "standard"
+    ]
+  },
+  {
+    "code": "cmn-CN",
+    "LanguageName": "Chinese Mandarin",
+    "Voices": [
+      "Zhiyu"
+    ],
+    "Regions": [
+      "neural"
+    ]
+  },
+  {
+    "code": "arb",
+    "LanguageName": "Arabic",
+    "Voices": [
+      "Zeina"
+    ],
+    "Regions": [
+      "standard"
+    ]
+  },
+  {
+    "code": "ar-AE",
+    "LanguageName": "Gulf Arabic",
+    "Voices": [
+      "Hala"
+    ],
+    "Regions": [
+      "neural"
+    ]
+  },
+  {
+    "code": "ca-ES",
+    "LanguageName": "Catalan",
+    "Voices": [
+      "Arlet"
+    ],
+    "Regions": [
+      "neural"
+    ]
+  },
+  {
+    "code": "de-AT",
+    "LanguageName": "German",
+    "Voices": [
+      "Hannah"
+    ],
+    "Regions": [
+      "neural"
+    ]
+  },
+  {
+    "code": "yue-CN",
+    "LanguageName": "Cantonese",
+    "Voices": [
+      "Hiujin"
+    ],
+    "Regions": [
+      "neural"
+    ]
+  },
+  {
+    "code": "fi-FI",
+    "LanguageName": "Finnish",
+    "Voices": [
+      "Suvi"
+    ],
+    "Regions": [
+      "neural"
+    ]
+  }
+]
